@@ -2,7 +2,6 @@
       <title>Show On Wheels</title> 
       <?php include'includes/header2.php' ?>
 
-      <h1>Welcome to Movie App</h1>
       <form>
         <div class="form-group">
           <input
