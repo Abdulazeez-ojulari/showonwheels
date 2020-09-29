@@ -69,7 +69,7 @@ function createVideoTemplate(data) {
         return;
     }
 
-    for (let i = 0; i < 4; i++) {
+    for (let i = 0; i < 1; i++) {
         const video = videos[i];
         insertIframeIntoContent(video, content);
     }
