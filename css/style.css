@@ -1,5 +1,14 @@
+html { 
+    min-height:100%;
+    position:relative;    
+}
+
 body{
   background-color:#353839;
+}
+
+.container{
+  margin-bottom:8rem;
 }
 
 .card-footer {
@@ -98,7 +107,7 @@ iframe {
 }
 
 #movies-searchable{
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 .d-inline-block {
@@ -141,6 +150,7 @@ p{
 }
 
 .form-group{
+  margin-top: 1rem;
   color: rgb(113 193 233);
 }
 

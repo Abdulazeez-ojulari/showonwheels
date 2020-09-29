@@ -12,6 +12,7 @@ window.onclick = function(event) {
 	modal.style.display = "block";
 }*/
 </script> -->
+</div>
 <nav class="navbar fixed-bottom navbar-light bg-light">
   <p>&copy copyright <span>All rights reserved by abdulazeez</span></p>
 </nav>
